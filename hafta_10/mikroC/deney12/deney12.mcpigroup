@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\deney13\deney13.mcppi
+Project1=deney12.mcppi
+[ActiveProject]
+Index=1
